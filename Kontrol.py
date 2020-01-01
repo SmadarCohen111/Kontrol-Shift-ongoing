@@ -1,3 +1,6 @@
+from Flights import Flights
+
+
 class Kontrol(Flights, elal_emp):
     start_time = 0
     finish_time = 0  # both for shift hours
