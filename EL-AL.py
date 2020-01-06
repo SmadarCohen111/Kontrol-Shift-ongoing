@@ -59,6 +59,7 @@ if check_arr.__sizeof__() != 0:
       #   elif p2.seniority > 0.6:
             #skills()
 
+print ("change")
 
 
 
