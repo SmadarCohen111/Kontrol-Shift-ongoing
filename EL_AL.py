@@ -15,14 +15,14 @@ class elal_emp:
 p1 = elal_emp()
 check_arr = [["Smadar cohen", 58719, 2, True, True, False], ["Hagay tik", 28719, 3, True, True, True]]
 
-def print(skills):
+
 
 def skills(check_arr):
     for i in range(len(check_arr)):
         for j in range(6):
             if(type(check_arr[i][j]) == bool):
                 p1.skills[j] = check_arr[i][j]
-                print()
+        print(p1.skills[j])
 
 
 

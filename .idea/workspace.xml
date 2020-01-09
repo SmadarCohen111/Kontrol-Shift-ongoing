@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a94826df-c98c-482a-bf3f-7d8e3867c8d3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/EL_AL.py" beforeDir="false" afterPath="$PROJECT_DIR$/EL_AL.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -163,7 +162,13 @@
       <option name="presentableId" value="LOCAL‎00002" />
       <updated>1578585267115</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL‎00003" summary="change1">
+      <created>1578587708503</created>
+      <option name="number" value="LOCAL‎00003" />
+      <option name="presentableId" value="LOCAL‎00003" />
+      <updated>1578587708503</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -179,7 +184,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="bla bla" />
-    <option name="LAST_COMMIT_MESSAGE" value="bla bla" />
+    <MESSAGE value="change1" />
+    <option name="LAST_COMMIT_MESSAGE" value="change1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
