@@ -1,5 +1,5 @@
 from Flights import Flights
-
+from EL_AL import elal_emp
 
 class Kontrol(Flights, elal_emp):
     start_time = 0
