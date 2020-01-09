@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a94826df-c98c-482a-bf3f-7d8e3867c8d3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/EL_AL.py" beforeDir="false" afterPath="$PROJECT_DIR$/EL_AL.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -40,7 +41,28 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.EL-AL">
+  <component name="RunManager" selected="Python.EL_AL">
+    <configuration name="EL_AL" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Kontrol Shift" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/EL_AL.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Kontrol Shift" type="PythonConfigurationType" factoryName="Python">
       <module name="Kontrol Shift" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -131,9 +153,11 @@
       <item itemvalue="Python.Kontrol" />
       <item itemvalue="Python.elal" />
       <item itemvalue="Python.flights" />
+      <item itemvalue="Python.EL_AL" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.EL_AL" />
         <item itemvalue="Python.elal" />
         <item itemvalue="Python.flights" />
       </list>
@@ -168,7 +192,13 @@
       <option name="presentableId" value="LOCAL‎00003" />
       <updated>1578587708503</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL‎00004" summary="change2">
+      <created>1578588072540</created>
+      <option name="number" value="LOCAL‎00004" />
+      <option name="presentableId" value="LOCAL‎00004" />
+      <updated>1578588072540</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -185,7 +215,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="bla bla" />
     <MESSAGE value="change1" />
-    <option name="LAST_COMMIT_MESSAGE" value="change1" />
+    <MESSAGE value="change2" />
+    <option name="LAST_COMMIT_MESSAGE" value="change2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -202,33 +233,18 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/EL_AL.py</url>
-          <line>38</line>
-          <option name="timeStamp" value="32" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/EL_AL.py</url>
-          <line>34</line>
-          <option name="timeStamp" value="34" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/EL_AL.py</url>
-          <line>20</line>
-          <option name="timeStamp" value="35" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/EL_AL.py</url>
           <line>21</line>
-          <option name="timeStamp" value="36" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/EL_AL.py</url>
-          <line>23</line>
-          <option name="timeStamp" value="39" />
+          <option name="timeStamp" value="42" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/EL_AL.py</url>
           <line>22</line>
-          <option name="timeStamp" value="40" />
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/EL_AL.py</url>
+          <line>25</line>
+          <option name="timeStamp" value="46" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
